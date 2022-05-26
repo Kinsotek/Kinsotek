@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud security / python development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python development project
-- 📫 How to reach me: obiaozukelechi@gmail.com
+- 📫 How to reach me: o.kelechi96@gmail.com
 
 <!---
 Kinsotek/Kinsotek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
