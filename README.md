@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Obiaozu (Kinsotek)
-- 👀 I’m a cloud and devops engineering with tek
+- 👀 I’m a cloud and devops engineering with Microsoft via tek experts Nigeria
 - 🌱 I’m currently learning GCP, and JS
 - 💞️ I’m looking to collaborate on Software development project (cloud & devops)
 - 📫 How to reach me: obiaozukelechi@gmail.com, follow me on Medium: https://medium.com/@obiaozuemmanuel 
