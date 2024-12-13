@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # 🌟 Welcome to My World!  
 
 ## 🔍 About  
-This repository is dedicated to **TechJourney in Cloud/Devops Engineering**.  
+This repository is about my**TechJourney in Cloud/Devops Engineering**. Dedicated to all tech enthusiast and lovers. Let's build together!!
 
 ---
 
